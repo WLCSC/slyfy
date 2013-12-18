@@ -1,0 +1,14 @@
+{
+  "name":"Slyfy",
+  "main":"index.html",
+  "window": {
+    "toolbar": true,
+    "position": "mouse",
+    "min_width": 411,
+    "min_height": 580,
+    "frame": false,
+    "toolbar": true,
+    "fullscreen": true
+  }
+
+}
