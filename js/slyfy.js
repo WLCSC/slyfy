@@ -33,12 +33,12 @@ var ctr = 0;
 function init() {
     var offset = 0;
     for(var i = 0; i < ctr; i++) {
-        offset += 720;
+        offset += 416;
     }
     $('#slideshow_area').animate({top: '-='+offset}, 0);
 }
 function slideDown() {
-    $('#slideshow_area').animate({top: '-=720'}, 1000);
+    $('#slideshow_area').animate({top: '-=416'}, 1000);
 }
 
 function slideToTop() {
