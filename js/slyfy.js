@@ -38,7 +38,7 @@ function init() {
     $('#slideshow_area').animate({top: '-='+offset}, 0);
 }
 function slideDown() {
-    $('#slideshow_area').animate({top: '-=416'}, 1000);
+    $('#slideshow_area').animate({top: '-=416'}, 0);
 }
 
 function slideToTop() {
