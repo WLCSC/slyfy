@@ -5,7 +5,7 @@ color:red;
 #slideshow_area {
 	position: absolute;
 	top: 0px;
-	left: 0px;
+	left: 51px;
 }
 
 body {
@@ -15,5 +15,4 @@ body {
 
 img {
     height: 416px;
-    margin: auto;
 }
