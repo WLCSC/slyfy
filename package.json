@@ -7,7 +7,7 @@
     "min_width": 411,
     "min_height": 580,
     "frame": false,
-    "toolbar": true,
+    "toolbar": false,
     "fullscreen": true
   }
 
