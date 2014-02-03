@@ -8,4 +8,11 @@ color:red;
 	left: 0px;
 }
 
+body {
+    overflow: hidden;
+    background-color: #544;
+}
 
+img {
+    width: 100%;
+}
